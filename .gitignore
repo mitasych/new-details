@@ -4,3 +4,5 @@ INSTALL.md
 .settings/
 common/config/
 images/uploaded/
+access.log
+error.log
