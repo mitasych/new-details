@@ -1,1 +1,6 @@
-.htaccess
+.buildpath
+.project
+INSTALL.md
+.settings/
+common/config/
+images/uploaded/
